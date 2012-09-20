@@ -1,1 +1,1 @@
-.h2 Hello world
+<h1>oh-my-lewis</h1>
